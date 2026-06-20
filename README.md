@@ -24,4 +24,4 @@ All 500 specs passed.
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2011
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
